@@ -1,0 +1,18 @@
+nome: Marcio Vinicius de Souza da Rocha
+turma: BCC 4º Periodo
+
+dataset utilizado: https://www.kaggle.com/preetviradiya/algorithmic-trading-dataset/version/1?select=recommended_trades_1.csv.csv
+
+## data type
+
+Utilizado apra treinar algoritmos de negociações de investimentos com base na bolsa S&P 500.
+
+A bolsa S&P 500 é uma das maiores e mais conhecidas bolsas de negociações do mundo
+
+### Descrição dos datasets
+
+* `momentum_strategy_1` são investimentos que possuem o lucro obtido através valorização sobre do preço de compra.
+* `value_investing` são investimentos que possuem o lucro obtido através do valor total da companhia divido pelo número total de ações, normalmente negociados antes da anunciação das ações no mercado. 
+
+
+
